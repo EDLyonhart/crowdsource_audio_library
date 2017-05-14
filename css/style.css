@@ -30,3 +30,21 @@
 	font-size:16px;
 	
 }
+
+#soundbites .bite {
+	width:253.5px;
+	float:left;
+	margin-bottom:40px;
+}
+
+#soundbites img {
+	height:246.5px;
+	width:246.5px;
+	float:left;
+}
+
+#soundbites audio {
+	float:left;
+	width:246.5px;
+	margin:0px 3.5px;
+}
