@@ -48,3 +48,12 @@
 	width:246.5px;
 	margin:0px 3.5px;
 }
+
+#soundbite {
+	float:left;
+}
+
+#info {
+	float:left;
+	padding-left:50px;
+}
