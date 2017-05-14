@@ -1,0 +1,9 @@
+.container {
+	padding: 20px 15%;
+}
+
+#navbar {
+	width: 100%;
+	height:150px;
+	vertical-align:middle;
+}
